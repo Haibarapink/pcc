@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(symbol_test symbol_test.cc)
